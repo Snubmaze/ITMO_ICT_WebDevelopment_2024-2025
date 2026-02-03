@@ -1,0 +1,10 @@
+site_name: School Management API
+theme:
+  name: mkdocs
+
+nav:
+  - Главная: index.md
+  - Авторизация: auth.md
+  - CRUD сущности: crud.md
+  - Расписание: schedule.md
+  - Отчёты об успеваемости: reports.md
